@@ -88,7 +88,7 @@ h1 {
 
     border-radius: 10px;
 
-    background: #009688;
+    background: #EA979F;
 
     color: #fff;
 
@@ -274,15 +274,15 @@ hrs = today.getHours();
 
 if (hrs < 12)
 
-        greet = ‘Your butt looks awesome today, Leona! ';
+        greet = 'Good Morning  ';
 
     else if (hrs >= 12 && hrs <= 17)
 
-        greet = ‘Welcome to the STD-Hotline, Leona! ';
+        greet = 'Good Afternoon ';
 
     else if (hrs >= 17 && hrs <= 24)
 
-        greet = ‘Send nudes.';
+        greet = 'Good Evening  ';
 
 // console.log(today.toLocaleTimeString());
 
